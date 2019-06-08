@@ -11,6 +11,7 @@ Introduction
 ------------
 * Java Resource
 >* RefactorController
+>>*
 >* RefactorService
 * WebContent
 >* Css
@@ -31,8 +32,13 @@ Introduction
 开发者
 -------------
 靳坤<br> 
-Morty(汪诗雨) <br> 
+[Morty](https://github.com/KevinMorty)(汪诗雨) <br> 
 田凤荣<br> 
 
 讨论
 -------------
+参考资料：
+[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+[CheckStyle](https://github.com/checkstyle/checkstyle)
+[集成 FindBugs、CheckStyle、Cobertura 与 Rational Team Concert 构建系统](https://www.ibm.com/developerworks/cn/rational/integration-rational-team-concert-quality-tools/index.html)
+[Static program analysis](https://en.wikipedia.org/wiki/Static_code_analysis)
