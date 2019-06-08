@@ -26,3 +26,13 @@ Introduction
 
 测试
 -------------
+![image](https://upload-images.jianshu.io/upload_images/16032439-89dcc4475bf16edf.gif)
+
+开发者
+-------------
+靳坤<br> 
+Morty(汪诗雨) <br> 
+田凤荣<br> 
+
+讨论
+-------------
