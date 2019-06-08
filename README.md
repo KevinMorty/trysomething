@@ -1,2 +1,4 @@
-# trysomething
-Always something wrong. 
+##Mini-Refactor
+==============
+####Introduction
+-------------
