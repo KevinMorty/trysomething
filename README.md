@@ -1,4 +1,4 @@
- ##Mini-Refactor
-==============
- ####Introduction
+Mini-Refactor
+=============
+Introduction
 -------------
