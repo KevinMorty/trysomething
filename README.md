@@ -20,5 +20,9 @@ Introduction
 
 快速开始
 -------------
-打开 `Eclipse`>>点击 `File`>>选择 `Import``WAR Import`>>在[WAR file]一栏点击'Browse...'打开文件夹后找到refactor.war>>点击`Finish`
-在`Servers`中配置好`Tomcat`(版本：Apache Tomcat v7.0)>>在Tomcat中运行无误后>>在浏览器中输入：http://localhost:8080/refactor
+打开 `Eclipse`>>点击 `File`>>选择 `Import``WAR Import`>>在[WAR file]一栏点击'Browse...'打开文件夹后找到refactor.war>>点击`Finish`<br>
+在`Servers`中配置好`Tomcat`(版本：Apache Tomcat v7.0)>>在Tomcat中运行无误后>>在浏览器中输入：http://localhost:8080/refactor<br>
+点击`浏览`选择需要重构的代码(大小不超过3M)>>点击`上传`>>点击`代码重构`<br>
+
+测试
+-------------
